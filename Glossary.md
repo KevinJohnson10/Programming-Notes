@@ -3,7 +3,9 @@
 
 
 **Functions:** A block of statements that return the specific task. They are useful because they bundle a set of instructions that you want to use repeatedly.
+
 **Loops:** When something repeats over and over until a particular condition is satisfied.
+
 **Datatypes:** The classification or categorization of data items.
 **Strings:** A data structure that represents a sequence of characters.
 **Subroutines:** A name for a block of code.
