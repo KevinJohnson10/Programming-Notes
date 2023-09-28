@@ -27,4 +27,17 @@
 # Global modifies the global variable outside its current scope and meaning.
 # Not inverts the truth value of Boolean expressions and objects.
 # From imports only a specified section from a module.
-# Raise raises a specific exception when a condition is met or the code encounters an error. 
+# Raise raises a specific exception when a condition is met or the code encounters an error.
+# Int is a built-in method that converts a string or a number into an integer.
+# Float is a function or reusable code in the Python programming language that converts values into floating point numbers.
+# Boolean is a built in data type which represents one of the two values i.e. True or False.
+# Data Types are the classification or categorization of knowledge items.
+# Type Conversations are The process of converting a Python data type into another data type.
+# String Literal is where you specify the contents of a string in a program.
+# Arithmetic Operators are a mathematical function that performs a calculation on two operands.
+# Comparison Operators compare the values on either side of them and returns a boolean value.
+# Logical Operators are and, or, and not.
+# Or returns the first object that evaluates to true or the last object in the expression, regardless of its truth value.
+# While Loops are used to execute a block of statements repeatedly until a given condition is satisfied.
+# For Loops are used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+# PIP installs and manages software packages.
